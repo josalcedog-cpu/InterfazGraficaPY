@@ -3,7 +3,6 @@ import tkinter as tk
 #https://github.com/NBOLIVARTELECO/Tkinter-Views-Basic.git
 def crear_ventana():
     
-    
     ventana = tk.Tk()
     ventana.geometry("500x500")# está en pixeles
 
